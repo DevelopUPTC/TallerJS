@@ -134,4 +134,16 @@ const students = {
             "phones":["3102746859"]
         }
   },
+        "201921821" : {
+            "name" : "Juan Camilo",
+            "lastName" : "Vargas Cardenas",
+            "birthday" : "1996-11-29",
+            "gender" : true,
+            "address" : {
+                "street" : 22,
+                "number" : 67,
+                "city" : "Sogamoso"
+            },
+            "phones":["313445678","7725758","312445678"]
+        }
 };
