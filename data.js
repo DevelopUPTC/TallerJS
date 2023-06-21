@@ -132,8 +132,8 @@ const students = {
                 city : "Sogamoso"
             },
             phones:["3102746859"]
-        }
-  },
+        },
+  
         "201921821" : {
             "name" : "Juan Camilo",
             "lastName" : "Vargas Cardenas",
@@ -180,4 +180,5 @@ const students = {
       },
       phones: ["3134970776"],
     },
+  }
 };
