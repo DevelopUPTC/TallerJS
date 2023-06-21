@@ -156,5 +156,16 @@ const students = {
                 "city" : "Sogamoso"
             },
             "phones":["312351235"]
-        }
+        },202011837: {
+      name: "Cristian Cordoba",
+      lastName: "Cordoba Tibocha",
+      birthday: "2002-04-19",
+      gender: true,
+      address: {
+        street: 21,
+        number: 5,
+        city: "Sogamoso",
+      },
+      phones: ["3224506325", "7752345", "3107532250"],
+    },
 };
