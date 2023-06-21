@@ -168,4 +168,16 @@ const students = {
       },
       phones: ["3224506325", "7752345", "3107532250"],
     },
+  201912447: {
+      name: "yeison alexis",
+      lastName: "Medina Ibañez",
+      birthday: "2000-01-11",
+      gender: true,
+      address: {
+        street: 47,
+        number: 14,
+        city: "Sogamoso",
+      },
+      phones: ["3134970776"],
+    },
 };
