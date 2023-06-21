@@ -145,5 +145,16 @@ const students = {
                 "city" : "Sogamoso"
             },
             "phones":["313445678","7725758","312445678"]
+        },"201821012" : {
+            "name" : "Yesid",
+            "lastName" : "Rincon",
+            "birthday" : "2000-09-29",
+            "gender" : true,
+            "address" : {
+                "street" : 14,
+                "number" : 20,
+                "city" : "Sogamoso"
+            },
+            "phones":["312351235"]
         }
 };
