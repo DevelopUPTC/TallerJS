@@ -122,16 +122,16 @@ const students = {
         },
     
         201823055 : {
-            "name" : "Wilmar Jose",
-            "lastName" : "Pena Castro",
-            "birthday" : "2001-06-21",
-            "gender" : true,
-            "address" : {
-                "street" : 25,
-                "number" : 14,
-                "city" : "Sogamoso"
+            name : "Wilmar Jose",
+            lastName : "Pena Castro",
+            birthday : "2001-06-21",
+            gender : true,
+            address : {
+                street : 25,
+                number : 14,
+                city : "Sogamoso"
             },
-            "phones":["3102746859"]
+            phones:["3102746859"]
         }
   },
         "201921821" : {
