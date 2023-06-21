@@ -157,7 +157,7 @@ const students = {
             },
             "phones":["312351235"]
         },202011837: {
-      name: "Cristian Cordoba",
+      name: "Cristian David",
       lastName: "Cordoba Tibocha",
       birthday: "2002-04-19",
       gender: true,
