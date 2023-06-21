@@ -108,5 +108,17 @@ const students = {
       },
       phones: ["0987654321", "00000001", "3214679259"],
     },
+        "20210292" :{
+            "name" : "Yorman Alexander",
+            "lastName" : "Carrillo Martinez",
+            "birthday" : "1998-06-07",
+            "gender" : true,
+            "address" : {
+                "street" : 3,
+                "number" : 3,
+                "city" : "Duitama"
+            },
+            "phones":["3221344224","7790160","31123421352"]
+        }
   },
 };
